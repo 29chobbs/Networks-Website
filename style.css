@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    color: greenyellow;
+}
+
+p {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: x-large;
+     color: lightblue;
+     font-weight: bolder;
+}
+
+figcaption {
+    font-family: 'Times New Roman', Times, serif;
+    color: lightgray;
+}
+
+div {
+    background-color: navy;
+}
+
+img {
+    height: 400px;
+    width: 650px;
+}
